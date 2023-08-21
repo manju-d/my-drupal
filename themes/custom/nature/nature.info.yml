@@ -1,6 +1,6 @@
 name: Nature Theme
 type: theme
-base theme: false
+base theme: bootstrap
 description: "Simple nature theme"
 package: nature
 core_version_requirement: ^8 || ^9
